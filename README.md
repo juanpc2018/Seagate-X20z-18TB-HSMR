@@ -30,3 +30,6 @@ ST18000NM002D SAS 12Gbp/s  (512e/4Kn) SED+FIPS
 https://www.seagate.com/products/enterprise-drives/exos-x/x20/
 https://www.seagate.com/products/enterprise-drives/exos-x/
 https://www.seagate.com/support/warranty-and-replacements/find-model-number/
+
+https://www.seagate.com/files/www-content/datasheets/pdfs/exos-x20-channel-DS2080-2111US-en_US.pdf
+https://www.seagate.com/files/www-content/product-content/enterprise-hdd-fam/exos-x20-channel/en-us/docs/200562700b.pdf
