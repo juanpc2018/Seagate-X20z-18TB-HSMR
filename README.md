@@ -3,24 +3,27 @@
 i thought i had a 4k drive,
 
 ST18000NM013J
-seems its an OEM "No Warranty" Original part, No specifications.
+seems an OEM but "No Warranty" Original part, No specifications.
 https://verify.seagate.com/verify/?bpid=############
 QR Code PASS
 https://www.seagate.com/support/warranty-and-replacements/?form=1
 No Warranty info Available.
-No Specifications.pdf
+No Specifications.
 
 Works Ok, but i don't think those passed the Quality Test,
 or has a Helium Leak.
 Temperature is 18°C when cold,
 40°C when working, 
-Temperature does Not lower fast like a Normal HDD. "Strange"
+but Temperature does Not lower fast like a Normal HDD. "Strange"
 can be used but Not is Datacenter 24/7 Non-Stop 365 2.5M/h MTBF, Extreme Heat & Vibration Environment.
+
+i guess it does Not have Official Specs .pdf
+because all drives have different specs.
 
 https://www.reddit.com/r/DataHoarder/comments/tfm7w9/what_is_st18000nm013j_exos_x20z_hsmr_18tb_hdd/
 https://forums.linuxmint.com/viewtopic.php?t=177959
 
-The 5 -Year Warranty equivalent is the:
+The 5-Year Warranty equivalent are the:
 ST18000NM003D SATA 6Gbp/s  (512e/4Kn)
 ST18000NM004D SATA 6Gbp/s  (512e/4Kn) SED
 ST18000NM000D SAS 12Gbp/s  (512e/4Kn)
