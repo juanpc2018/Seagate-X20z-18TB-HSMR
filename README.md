@@ -4,6 +4,7 @@ i thought i had a 4k drive,
 
 ST18000NM013J
 seems an OEM but "No Warranty" Original part, No specifications.
+
 https://verify.seagate.com/verify/?bpid=############
 QR Code PASS
 
