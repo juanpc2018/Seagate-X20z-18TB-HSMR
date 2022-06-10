@@ -10,7 +10,7 @@ QR Code PASS
 
 https://www.seagate.com/support/warranty-and-replacements/?form=1
 
-No Warranty info Available.
+No Warranty info Available, Contact Supṕort.
 No Specifications.
 
 Works Ok, but i don't think those passed the Quality Test,
