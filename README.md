@@ -18,7 +18,7 @@ or has a Helium Leak.
 Temperature is 18°C when cold,
 40°C when working, 
 but Temperature does Not lower fast like a Normal HDD "Strange"
-can be used but Not in Datacenter 24/7 Non-Stop 365 2.5M/h MTBF, Extreme Heat & Vibration Environment.
+can be used but Not Non-Stop in Datacenter 24/7 365 2.5M/h MTBF, Extreme Heat & Vibration Environment.
 
 i guess it does Not have Official Specs .pdf
 because all drives have different specs. Some worse than others.
